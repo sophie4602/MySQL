@@ -1,3 +1,5 @@
+![子查询](https://github.com/sophie4602/MySQL/assets/125710325/d024db9f-b3e8-480c-a002-08fcf730aeca)
+![join](https://github.com/sophie4602/MySQL/assets/125710325/2fde349b-be5b-4469-bd76-6c7ee6b7e64a)
 # 学习SQL
 
 SQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 SQL 是最好的 RDBMS（Relational Database Management System：关系数据库管理系统）应用软件之一。
